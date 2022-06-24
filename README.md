@@ -1,5 +1,5 @@
 # kNN
-Love Thy neighbor: "Nearest Neighbor Classifier—classification is achieved by identifying the nearest neighbors to a query example and using those neighbors to determine the class of the query."
+Love Thy neighbor: "k-Nearest Neighbor Classifier—classification is achieved by identifying the nearest neighbors to a query example and using those neighbors to determine the class of the query."
 
 # What is the best value for k?
 
